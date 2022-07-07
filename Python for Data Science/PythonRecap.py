@@ -1,7 +1,3 @@
-
-
-
-
 # RECAP
 
 # Ders Özeti:

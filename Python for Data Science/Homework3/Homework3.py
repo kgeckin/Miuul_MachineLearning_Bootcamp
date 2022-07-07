@@ -95,3 +95,9 @@ dict
 # 5 - Antonio'yu dictionary'den siliniz.
 dict.pop("Antonio")
 dict
+
+#####################################################################
+# 5 - Argüman olarak bir liste alan, listenin içerisindeki tek ve çift sayıları ayrı listelere atayan 
+#     bu listeleri return eden fonksiyon yazınız.
+#####################################################################
+l = [2, 13, 18, 93, 22]

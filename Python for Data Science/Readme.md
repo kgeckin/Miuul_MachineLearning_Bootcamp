@@ -6,10 +6,13 @@
 
 | <b>İÇİNDEKİLER</b> |
 |:-------------:|
-| <em>Çalışma Ortamı Ayarları</em> |
-| <em>Veri Yapıları</em>           |
-| <em>Fonksiyonlar</em>            |
-| <em>Koşullar</em>                |
-| <em>Döngüler</em>                |
-| <em>Comprehensions</em>          |
+| [Çalışma Ortamı Ayarları](https://github.com/kgeckin/Miuul_MachineLearning_Bootcamp/tree/main/Python%20for%20Data%20Science/Python%20Initialization%20Configuration) |
+| [Veri Yapıları](https://github.com/kgeckin/Miuul_MachineLearning_Bootcamp/tree/main/Python%20for%20Data%20Science/Data%20Structure)           |
+| [Fonksiyonlar](https://github.com/kgeckin/Miuul_MachineLearning_Bootcamp/tree/main/Python%20for%20Data%20Science/Functions)            |
+| [Koşullar/Döngüler](https://github.com/kgeckin/Miuul_MachineLearning_Bootcamp/tree/main/Python%20for%20Data%20Science/If-Else%20Statement)                |
+| [Comprehensions](https://github.com/kgeckin/Miuul_MachineLearning_Bootcamp/tree/main/Python%20for%20Data%20Science/Comprehensions)          |
 </div>
+
+
+
+

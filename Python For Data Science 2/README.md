@@ -8,7 +8,7 @@
 |:-------------:|
 | [NumPy](https://github.com/kgeckin/Miuul_MachineLearning_Bootcamp/tree/main/Python%20For%20Data%20Science%202/NumPy) |
 | [Pandas](https://github.com/kgeckin/Miuul_MachineLearning_Bootcamp/tree/main/Python%20For%20Data%20Science%202/Pandas) |
-| [Veri Görselleştirme]()            |
+| [Veri Görselleştirme](https://github.com/kgeckin/Miuul_MachineLearning_Bootcamp/tree/main/Python%20For%20Data%20Science%202/Data%20Visualization)            |
 | [İleri Veri Analizi]()|
 </div> 
 

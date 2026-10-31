@@ -1,28 +1,61 @@
-# Miuul Machine Learning Bootcamp
-
-Bu repo, Miuul Machine Learning Bootcamp kapsamında verilen eğitimleri içerecektir.
-
-> İlk hafta verilen eğitim: Python for Data Science Part 1
-
 <div align="center">
 
-| <b>İÇİNDEKİLER</b> |
-|:-------------:|
-| [Çalışma Ortamı Ayarları](https://github.com/kgeckin/Miuul_MachineLearning_Bootcamp/tree/main/Python%20for%20Data%20Science/Python%20Initialization%20Configuration) |
-| [Veri Yapıları](https://github.com/kgeckin/Miuul_MachineLearning_Bootcamp/tree/main/Python%20for%20Data%20Science/Data%20Structure)           |
-| [Fonksiyonlar](https://github.com/kgeckin/Miuul_MachineLearning_Bootcamp/tree/main/Python%20for%20Data%20Science/Functions)            |
-| [Koşullar/Döngüler](https://github.com/kgeckin/Miuul_MachineLearning_Bootcamp/tree/main/Python%20for%20Data%20Science/If-Else%20Statement)                |
-| [Comprehensions](https://github.com/kgeckin/Miuul_MachineLearning_Bootcamp/tree/main/Python%20for%20Data%20Science/Comprehensions)          |
+<img src="docs/assets/cover.svg" width="100%" alt="Miuul_MachineLearning_Bootcamp portfolio cover" />
+
+**A structured archive of Python, exploratory data analysis and feature engineering exercises from the Miuul Machine Learning Bootcamp.**
+
+[Explore the materials](#explore-the-materials) · [Getting started](#getting-started) · [Validation](#validation)
+
 </div>
 
-> İkinci hafta verilen eğitim: Python for Data Science Part 2
+## Overview
 
-<div align="center">
+This repository documents a learning progression from Python fundamentals through NumPy, Pandas, visualization, exploratory data analysis and feature engineering. It is a coursework archive with notebooks, exercises and bundled example datasets.
 
-| <b>İÇİNDEKİLER</b> |
-|:-------------:|
-| [NumPy](https://github.com/kgeckin/Miuul_MachineLearning_Bootcamp/tree/main/Python%20For%20Data%20Science%202/NumPy) |
-| [Pandas](https://github.com/kgeckin/Miuul_MachineLearning_Bootcamp/tree/main/Python%20For%20Data%20Science%202/Pandas) |
-| [Veri Görselleştirme](https://github.com/kgeckin/Miuul_MachineLearning_Bootcamp/tree/main/Python%20For%20Data%20Science%202/Data%20Visualization)            |
-| [İleri Veri Analizi](https://github.com/kgeckin/Miuul_MachineLearning_Bootcamp/tree/main/Python%20For%20Data%20Science%202/Advanced%20Functional%20EDA)|
-</div> 
+## What it includes
+
+* **Python foundations:** data types, functions, conditions, loops and comprehensions.
+* **Data analysis:** NumPy, Pandas, visualizations and reusable exploratory analysis scripts.
+* **Practice projects:** persona analysis and a diabetes feature engineering notebook.
+* **Datasets:** locally included sample CSV files used during exercises.
+
+## Explore the materials
+
+| Section | Contents |
+| --- | --- |
+| [Python for Data Science](Python%20for%20Data%20Science/) | Language fundamentals, functions and exercises |
+| [Python For Data Science 2](Python%20For%20Data%20Science%202/) | NumPy, Pandas, visualization, advanced EDA and persona homework |
+| [Feature Engineering](Feature_Engineering/) | Diabetes feature engineering notebook and sample datasets |
+
+## Getting started
+
+Clone the repository, open a chosen notebook in JupyterLab or a compatible notebook environment, and review that exercise's imports and dataset path. Some scripts require packages including pandas, numpy, matplotlib, seaborn and scikit-learn.
+
+This archive does not currently contain a single verified dependency lockfile or universal execution command. Individual exercises may require their original package versions.
+
+## Repository structure
+
+~~~text
+Miuul_MachineLearning_Bootcamp/
+├── Python for Data Science/
+├── Python For Data Science 2/
+├── Feature_Engineering/
+├── docs/assets/
+└── README.md
+~~~
+
+## Validation
+
+The archived exercises do not currently have a common automated test suite. Reproducibility must be checked notebook by notebook.
+
+## Architecture & decisions
+
+Original educational directory names are retained to preserve source references. Notebook outputs and scripts remain in their course sections instead of being reorganized as one deployable application.
+
+## Security & limitations
+
+Some notebooks rely on bundled CSV files and historical package versions. Confirm the rights and provenance of each dataset before redistribution. Outputs represent coursework rather than independently validated production models.
+
+## License
+
+No repository license file was found. Reuse and redistribution permissions have not been established.
